@@ -399,7 +399,7 @@ Shristhi Softech is an authorized Google Workspace Reseller/Partner and a websit
 	<div class="auto-container">
 		<!-- Sec Title -->
 		<div class="sec-title centered">
-			<h2>Technology <span>Options</span> / Solution</h2>
+			<h2>Technology <span>Options</span> / Solutions</h2>
 		</div>
 		<div class="row clearfix">
 
