@@ -40,7 +40,7 @@ At Skynetiks Technologies, we are dedicated to providing top-notch services and 
 				</div>
 			</div>
 			<div class="col-md-4">
-				<img src="images/how-do-I-set-up-a-custom-domain-in-Google-Workspace-partner-with-Skynetiks-technologies-in-Noida-India.jpg">
+				<img src="images/how-do-I-set-up-a-custom-domain-in-Google-Workspace-partner-with-Skynetiks-technologies-in-Noida-India.jpg" title="" alt="">
 			</div>
 		</div>
 	</div>

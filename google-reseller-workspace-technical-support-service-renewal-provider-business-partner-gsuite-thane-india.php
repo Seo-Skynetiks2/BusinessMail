@@ -47,7 +47,7 @@ Let us take care of your email and hosting needs while you focus on expanding yo
 				</div>
 			</div>
 			<div class="col-md-4">
-				<img src="images/how-do-I-set-up-a-custom-domain-in-Google-Workspace-partner-with-Skynetiks-technologies-in-Noida-India.jpg">
+				<img src="images/how-do-I-set-up-a-custom-domain-in-Google-Workspace-partner-with-Skynetiks-technologies-in-Noida-India.jpg" title="Customized Business Mail Solution for your business and enterprise in Thane by Skynetiks Technologies" alt="Google Workspace legacy account migration to Google Business and Google Enterprise customers in Thane by Skynetiks Technologies.">
 			</div>
 		</div>
 	</div>

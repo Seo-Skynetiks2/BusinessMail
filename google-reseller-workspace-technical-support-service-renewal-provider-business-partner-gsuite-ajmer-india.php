@@ -38,7 +38,7 @@
 				</div>
 			</div>
 			<div class="col-md-4">
-				<img src="images/how-do-I-set-up-a-custom-domain-in-Google-Workspace-partner-with-Skynetiks-technologies-in-Noida-India.jpg">
+				<img src="images/how-do-I-set-up-a-custom-domain-in-Google-Workspace-partner-with-Skynetiks-technologies-in-Noida-India.jpg" title="Google for Workspace - Email Cloud Solutions Services by Skynetiks Technologies in Ajmer." alt="Email Cloud Solution Services - Business Mail - Google For Workspace by Skynetiks Technologies in India, Noida, Delhi & Gurugram.">
 			</div>
 		</div>
 	</div>

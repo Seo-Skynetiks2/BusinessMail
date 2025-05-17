@@ -41,7 +41,7 @@ Skynetiks Technologies takes pride in its wide range of hosting solutions that c
 				</div>
 			</div>
 			<div class="col-md-4">
-				<img src="images/how-do-I-set-up-a-custom-domain-in-Google-Workspace-partner-with-Skynetiks-technologies-in-Noida-India.jpg">
+				<img src="images/how-do-I-set-up-a-custom-domain-in-Google-Workspace-partner-with-Skynetiks-technologies-in-Noida-India.jpg" title="Credit Card Declined while paying for Google Workspace Renewal, don't worry we at Skynetiks Technologies is the Solution." alt="Google Renewal Credit Card Payment Error solution here at Skynetiks Technologies in Noida, India.">
 			</div>
 		</div>
 	</div>

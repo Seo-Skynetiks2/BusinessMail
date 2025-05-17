@@ -287,7 +287,7 @@
 
 								</br>
 								</br>
-								As a Google partner, <a href="https://skynetiks.com/" target="_blank">Skynetiks Technologies</a> provides <a href="https://businessmail.co.in/google-workspace-gsuite-pricing-trail-renewal-setup-plan-reseller-partner-india.php ">Google Workspace</a>  reseller and service provider for businesses in India. At <a href="https://skynetiks.com/" target="_blank">Skynetiks,</a> we offer a wide range of services as Google Workspace deployment management, data migration, mobile device integration and a lot more.
+								As a Google partner, <a href="https://skynetiks.com/" target="_blank">Skynetiks Technologies</a> provides <a href="google-workspace-gsuite-pricing-trail-renewal-setup-plan-reseller-partner-india.php ">Google Workspace</a>  reseller and service provider for businesses in India. At <a href="https://skynetiks.com/" target="_blank">Skynetiks,</a> we offer a wide range of services as Google Workspace deployment management, data migration, mobile device integration and a lot more.
 							</p>
 							<h5><span style="color:#0c82dc;"><b><a href="https://workspace.google.com/intl/en_in/features/">Our Customers benefits:</a></span></b></h5>
       <p style="color:#000;">

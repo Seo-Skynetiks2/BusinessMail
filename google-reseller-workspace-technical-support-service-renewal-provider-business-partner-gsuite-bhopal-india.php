@@ -43,7 +43,7 @@ Join hands with Skynetiks Technologies today and experience the difference that 
 				</div>
 			</div>
 			<div class="col-md-4">
-				<img src="images/how-do-I-set-up-a-custom-domain-in-Google-Workspace-partner-with-Skynetiks-technologies-in-Noida-India.jpg">
+				<img src="images/how-do-I-set-up-a-custom-domain-in-Google-Workspace-partner-with-Skynetiks-technologies-in-Noida-India.jpg" title="Google Workspace Free Technical Support Number +91 92 123 78780 in Bhopal by Skynetiks Technologies." alt="Sign Up for Free Trial - Google Workspace Business & Enterprise email plans by Skynetiks Technologies in India, Noida, Delhi & Gurugram.">
 			</div>
 		</div>
 	</div>

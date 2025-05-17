@@ -17,7 +17,7 @@
 
 	<div class="container">
     <h6>Google Workspace Support</h6>
-      <p style="text-align:left;"> <a href="https://skynetiks.com/" target="_blank">Skynetiks Technologies Pvt. Ltd</a> is an <a href="https://businessmail.co.in/google-workspace-gsuite-pricing-trail-renewal-setup-plan-reseller-partner-india.php ">Google Workspace</a> partner (Formerly known as G Suite) We provide comprehensive Google Workspace mail migration support for businesses in india.
+      <p style="text-align:left;"> <a href="https://skynetiks.com/" target="_blank">Skynetiks Technologies Pvt. Ltd</a> is an <a href="google-workspace-gsuite-pricing-trail-renewal-setup-plan-reseller-partner-india.php ">Google Workspace</a> partner (Formerly known as G Suite) We provide comprehensive Google Workspace mail migration support for businesses in india.
 </br> 
 Migrate your data to Google Workspace. Skynetiks Technologies as a certified Google Workspace partner delivers reliable, end-to-end mail migration services for businesses of all sizes. <strong>Our experts migrate your entire email ecosystem - including inboxes, calendars, contacts, attachments, folders, and user permissions - from platforms like Microsoft 365, Exchange, or other legacy systems to Google Workspace.</strong> We ensure zero data loss, minimal downtime, and full post-migration support to keep your team productive every step of the way.
       </p>

@@ -18,7 +18,7 @@
 
 	<div class="container">
     <h6>Google Workspace Support</h6>
-      <p style="text-align:left;"> <a href="https://skynetiks.com/" target="_blank">Skynetiks Technologies Pvt. Ltd</a> is an <a href="https://businessmail.co.in/google-workspace-gsuite-pricing-trail-renewal-setup-plan-reseller-partner-india.php ">Google Workspace</a> partner (Formerly known as G Suite) We provide comprehensive Google Workspace support for businesses in india, that go <strong>beyond just selling license, i.e. account set-up & onboarding, Email & Data migration services, SLA based support, Admin console management, ticket based or phone/email/chat support, security & compliance management,</strong> and if the issue is on Google's end, we can escalate support cases directly to Google on your behalf - often faster than end-users can. 
+      <p style="text-align:left;"> <a href="https://skynetiks.com/" target="_blank">Skynetiks Technologies Pvt. Ltd</a> is an <a href="google-workspace-gsuite-pricing-trail-renewal-setup-plan-reseller-partner-india.php">Google Workspace</a> partner (Formerly known as G Suite) We provide comprehensive Google Workspace support for businesses in india, that go <strong>beyond just selling license, i.e. account set-up & onboarding, Email & Data migration services, SLA based support, Admin console management, ticket based or phone/email/chat support, security & compliance management,</strong> and if the issue is on Google's end, we can escalate support cases directly to Google on your behalf - often faster than end-users can. 
       </p>
       <h5><span style="color:#0c82dc;"><b><a href="https://support.google.com/a/answer/1047213?hl=en">Our Customers benefits:</a></span></b></h5>
       <p style="color:#000;">

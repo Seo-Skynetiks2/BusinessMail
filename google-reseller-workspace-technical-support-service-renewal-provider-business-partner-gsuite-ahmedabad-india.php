@@ -44,7 +44,7 @@ Empower your business to thrive with Skynetiks Technologies Business Mail soluti
 				</div>
 			</div>
 			<div class="col-md-4">
-				<img src="images/how-do-I-set-up-a-custom-domain-in-Google-Workspace-partner-with-Skynetiks-technologies-in-Noida-India.jpg">
+				<img src="images/how-do-I-set-up-a-custom-domain-in-Google-Workspace-partner-with-Skynetiks-technologies-in-Noida-India.jpg" title="Google Workspace - The most economical and affordable email solutions in Ahmedabad by Skynetiks Technologies." alt="Google Workspace Data Migration to Zoho Mail, Microsoft O365 and Zimbra Mail Solution by Skynetiks Technologies in India, Noida, Delhi & Gurugram.">
 			</div>
 		</div>
 	</div>

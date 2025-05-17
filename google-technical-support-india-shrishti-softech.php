@@ -18,7 +18,7 @@
 
 	<div class="container">
     <h6>Google Workspace Support</h6>
-      <p style="text-align:left;"> <a href="https://skynetiks.com/" target="_blank">Skynetiks Technologies Pvt. Ltd</a> is an <a href="https://businessmail.co.in/google-workspace-gsuite-pricing-trail-renewal-setup-plan-reseller-partner-india.php ">Google Workspace</a> partner (Formerly known as G Suite) We provide comprehensive Google Workspace support for businesses in india.
+      <p style="text-align:left;"> <a href="https://skynetiks.com/" target="_blank">Skynetiks Technologies Pvt. Ltd</a> is an <a href="google-workspace-gsuite-pricing-trail-renewal-setup-plan-reseller-partner-india.php ">Google Workspace</a> partner (Formerly known as G Suite) We provide comprehensive Google Workspace support for businesses in india.
       </p>
       <h5><span style="color:#0c82dc;"><b><a href="https://support.google.com/a/answer/1047213?hl=en">Our Customers benefits:</a></span></b></h5>
       <p style="color:#000;">

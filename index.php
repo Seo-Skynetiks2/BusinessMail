@@ -458,7 +458,7 @@ Shristhi Softech is an authorized Google Workspace Reseller/Partner and a websit
 					<div class="lower-content">
 						<!-- <div class="category">Project Reporting</div> -->
 						<h4><a href="#">RC Mails</a></h4>
-						<p>"Empower your business with RC Mail — a premium email hosting solution crafted for entrepreneurs, small businesses, and resellers. Deliver professional, branded communication through secure, custom domain email addresses. With enterprise-grade reliability, 99.99% uptime, advanced spam protection, and intuitive management, It ensures your business stays connected, credible, Affordable, scalable, and built for growth — RC Mail is your trusted partner for professional business communication."</p>
+						<p>"Empower your business with RC Mail — a premium email hosting solution crafted for entrepreneurs, small businesses, and resellers. <b>Deliver professional, branded communication through secure, custom domain email addresses. With enterprise-grade reliability, 99.99% uptime, advanced spam protection,</b> and intuitive management, It ensures your business stays connected, credible, Affordable, scalable, and built for growth — RC Mail is your trusted partner for professional business communication."</p>
 						<div data-toggle="modal" data-target="#free_demo"><a class="arrow" href="#"><span class="txt">Get Free Demo</span><span class="arrow-icon flaticon-right-arrow-1"></span></a></div>
 					</div>
 				</div>
@@ -477,7 +477,7 @@ Shristhi Softech is an authorized Google Workspace Reseller/Partner and a websit
 					<div class="lower-content">
 						<!-- <div class="category">Project Reporting</div> -->
 						<h4><a href="#">Zimbra Mail</a></h4>
-						<p>Why settle for basic email when you can have a complete business communication platform ? Discover why businesses trust Zimbra for their collaboration workflows. It offers secure, professional email hosting plus tools like  calendars, file sharing, and team messaging — everything you need to boost productivity and stay connected. Whether you're a small business, a fast-growing startup, or a large enterprise, Zimbra provides the flexibility, security, and scalability your team needs to thrive.</p>
+						<p><b>Why settle for basic email when you can have a complete business communication platform ? Discover why businesses trust Zimbra for their collaboration workflows.</b> It offers secure, professional email hosting plus tools like  calendars, file sharing, and team messaging — everything you need to boost productivity and stay connected. Whether you're a small business, a fast-growing startup, or a large enterprise, Zimbra provides the flexibility, security, and scalability your team needs to thrive.</p>
 						<div data-toggle="modal" data-target="#free_demo"><a class="arrow" href="#"><span class="txt">Get Free Demo</span><span class="arrow-icon flaticon-right-arrow-1"></span></a></div>
 					</div>
 				</div>
@@ -497,7 +497,7 @@ Shristhi Softech is an authorized Google Workspace Reseller/Partner and a websit
 					<div class="lower-content">
 						<!-- <div class="category">Project Reporting</div> -->
 						<h4><a href="#">Microsoft O365</a></h4>
-						<p>Unlock the full potential of your workforce with Microsoft 365  — the industry-leading cloud solution that integrates office apps, intelligent cloud services, and world class security. With microsoft 365, your team can collaborate in real-time, work securely from anywhere, and scale effortlessly with flexible licensing options. Microsoft 365 offers built-in protection against cyber threats, advanced device management, and powerful productivity tools like Word, Excel, Teams, and Outlook — all in one seamless package.</p>
+						<p>Unlock the full potential of your workforce with Microsoft 365  — <b>the industry-leading cloud solution that integrates office apps, intelligent cloud services, and world class security.</b> With microsoft 365, your team can collaborate in real-time, work securely from anywhere, and scale effortlessly with <b>flexible licensing options. Microsoft 365 offers built-in protection against cyber threats, advanced device management, and powerful productivity tools like Word, Excel, Teams, and Outlook</b> — all in one seamless package.</p>
 						<div data-toggle="modal" data-target="#free_demo"><a class="arrow" href="#"><span class="txt">Get Free Demo</span><span class="arrow-icon flaticon-right-arrow-1"></span></a></div>
 					</div>
 				</div>
@@ -519,7 +519,7 @@ Shristhi Softech is an authorized Google Workspace Reseller/Partner and a websit
 						<!-- <div class="category">Profit Planning</div> -->
 						<h4><a href="#">Hosted Exchange</a></h4>
 						<p>Enhance your business communication with Hosted Exchange — a secure, scalable email hosting solution powered by Microsoft Exchange technology.
-						With BusinessMail's Hosted Exchange services, you enjoy all the features of a dedicated Exchange Server without the cost of managing in-house infrastructure. If your organization needs a reliable, secure, and feature-rich email platform without investing in expensive servers or IT maintenance, Hosted Exchange is the perfect solution.</p>
+						With BusinessMail's Hosted Exchange services, you enjoy all the features of a dedicated Exchange Server without the cost of managing in-house infrastructure. <b>If your organization needs a reliable, secure, and feature-rich email platform without investing in expensive servers or IT maintenance, Hosted Exchange is the perfect solution.</b></p>
 						<div data-toggle="modal" data-target="#free_demo"><a class="arrow" href="#"><span class="txt">Get Free Demo</span><span class="arrow-icon flaticon-right-arrow-1"></span></a></div>
 					</div>
 				</div>
@@ -541,7 +541,7 @@ Shristhi Softech is an authorized Google Workspace Reseller/Partner and a websit
 					<div class="lower-content">
 						<!-- <div class="category">Financial Strategy</div> -->
 						<h4><a href="#">Rediff Mail Pro</a></h4>
-						<p>Rediffmail Pro is a reliable and scalable business email hosting solution trusted by thousands of Indian businesses. Designed for growing companies, it offers a professional email experience on your custom domain, without the complexity of managing servers or IT infrastructure. From domain setup and user creation to migration and support. Enjoy zero-hassle onboarding and personalized support, every step of the way. Ready to switch to a secure, cost-effective email solution?</p>
+						<p>Rediffmail Pro is a reliable and scalable business email hosting solution <b>trusted by thousands of Indian businesses. Designed for growing companies, it offers a professional email experience on your custom domain, without the complexity of managing servers or IT infrastructure.</b> From domain setup and user creation to migration and support. Enjoy zero-hassle onboarding and personalized support, every step of the way. Ready to switch to a secure, cost-effective email solution?</p>
 						<div data-toggle="modal" data-target="#free_demo"><a class="arrow" href="#"><span class="txt">Get Free Demo</span><span class="arrow-icon flaticon-right-arrow-1"></span></a></div>
 					</div>
 				</div>
@@ -562,7 +562,7 @@ Shristhi Softech is an authorized Google Workspace Reseller/Partner and a websit
 					<div class="lower-content">
 						<!-- <div class="category">Project Reporting</div> -->
 						<h4><a href="#">Custom Mail</a></h4>
-						<p>Give your business a competitive edge with Custom Mail — personalized, domain-based email addresses that reflect your brand's identity and boost customer trust. If you want to project professionalism, protect your brand identity, and improve communication with clients, partners, and teams, Custom Mail is essential for your business. From domain registration to full-service hosting, BusinessMail is your trusted partner in professional email solutions. Get started today with a custom mail.</p>
+						<p>Give your business a competitive edge with Custom Mail — personalized, domain-based email addresses that reflect your brand's identity and boost customer trust. If you want to project professionalism, <b>protect your brand identity, and improve communication with clients, partners, and teams, Custom Mail is essential for your business. From domain registration to full-service hosting,</b> BusinessMail is your trusted partner in professional email solutions. Get started today with a custom mail.</p>
 						<div data-toggle="modal" data-target="#free_demo"><a class="arrow" href="#"><span class="txt">Get Free Demo</span><span class="arrow-icon flaticon-right-arrow-1"></span></a></div>
 					</div>
 				</div>
