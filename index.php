@@ -417,7 +417,7 @@ Shristhi Softech is an authorized Google Workspace Reseller/Partner and a websit
 					<div class="lower-content">
 						<!-- <div class="category">Financial Strategy</div> -->
 						<h4><a href="#">Google Workspace</a></h4>
-						<p>Looking for a secure, scalable, and professional business email solution ? Google Workspace (formerly known G suite) offers everything your team needs — from Gmail with your domain to Google Drive, Docs, Calendar, and 35+ productivity apps. At <b>BusinessMail,</b> we help Indian businesses migrate to Google Workspace with zero downtime, full data security, and ongoing support. Whether you're a small startup or an established enterprise, we make your cloud transition smooth and future-ready.
+						<p><b>Looking for a secure, scalable, and professional business email solution ? Google Workspace (formerly known G suite) offers everything your team needs</b> — from Gmail with your domain to Google Drive, Docs, Calendar, and 35+ productivity apps. <b>At BusinessMail, we help Indian businesses migrate to Google Workspace with zero downtime, full data security, and ongoing support.</b> Whether you're a small startup or an established enterprise, we make your cloud transition smooth and future-ready.
 						</p>
 						<div data-toggle="modal" data-target="#free_demo"><a class="arrow" href="#"><span class="txt"  >Get Free Demo</span><span class="arrow-icon flaticon-right-arrow-1"></span></a></div>
 					</div>
